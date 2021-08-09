@@ -1,0 +1,6 @@
+.env
+../.env.dev
+api/*.txt
+.idea
+../.idea
+.env_docker
